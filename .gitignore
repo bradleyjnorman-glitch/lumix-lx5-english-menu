@@ -1,0 +1,9 @@
+# Never commit original or modified camera firmware
+*.BIN
+*.bin
+*.zip
+*.exe
+output/
+__pycache__/
+*.pyc
+.DS_Store
